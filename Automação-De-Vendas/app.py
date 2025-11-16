@@ -14,7 +14,7 @@
  -Enviar essa analise por e-mail automaticamente - FEITO
  '''
 
-#Bibliotecas necessarias: Pandas, Openpyxl, Pywin32
+#Bibliotecas necessarias: Pandas, Openpyxl, smtplib, EmailMessage
 
 import pandas as pd
 #import openpyxl - como o arquivo e excel então foi necessario instalar essa biblioteca, mas não preciso importa-la
