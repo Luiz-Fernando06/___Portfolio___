@@ -8,7 +8,7 @@ O projeto também inclui uma etapa inicial de modelagem de Machine Learning, per
 
 Realizar uma análise detalhada do comportamento dos clientes, identificando padrões, correlações e variáveis relevantes que possam contribuir para prever a probabilidade de churn, além de preparar uma base sólida para modelos de classificação.
 
-# 📂 Principais Etapas
+## 📂 Principais Etapas
 
 - ✔️ Carregamento e inspeção inicial dos dados
 
