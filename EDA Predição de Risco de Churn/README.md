@@ -14,7 +14,7 @@ Realizar uma análise detalhada do comportamento dos clientes, identificando pad
 
 - ✔️ Identificação de inconsistências, valores ausentes e outliers
 
-- ✔️ Análises univariada, bivariada e multivariada
+- ✔️ Análises univariada, bivariada
 
 - ✔️ Visualização gráfica completa (distribuições, comparações e correlações)
 
